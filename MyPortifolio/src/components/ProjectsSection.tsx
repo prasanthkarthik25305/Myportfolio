@@ -96,7 +96,7 @@ const ProjectsSection = () => {
           {filteredProjects.map((project, index) => (
             <Card key={index} className="bg-gradient-to-br from-card/50 to-card/20 backdrop-blur-md border border-primary/30 hover:border-primary/60 transition-all duration-300 transform hover:scale-[1.02] project-card">
               <CardHeader>
-                <CardTitle className="text-2xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">{project.title}</CardTitle>
+                <CardTitle className="text-2xl font-bold text-white">{project.title}</CardTitle>
                 <CardDescription className="text-foreground/80 text-lg leading-relaxed font-medium">
                   {project.description}
                 </CardDescription>

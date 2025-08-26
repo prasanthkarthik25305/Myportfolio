@@ -16,14 +16,14 @@ const badgeData = [
   {
     platform: "LeetCode",
     icon: <Trophy className="w-7 h-7 text-emerald-600" />,
-    text: "LeetCode — Top 5%",
+    text: "LeetCode — Top 24%",
     // Customize background gradient and ring
     style: "from-emerald-100 to-emerald-300 border-emerald-300 shadow-emerald-200/40 hover:shadow-emerald-400/60",
   },
   {
     platform: "TryHackMe",
     icon: <Shield className="w-7 h-7 text-rose-500" />,
-    text: "TryHackMe — Top 5%",
+    text: "TryHackMe — Top 50%",
     style: "from-rose-100 to-rose-300 border-rose-300 shadow-rose-200/40 hover:shadow-rose-400/60",
   },
   {
@@ -35,7 +35,7 @@ const badgeData = [
   {
     platform: "Codeforces",
     icon: <Star className="w-7 h-7 text-violet-500" />,
-    text: "Codeforces — Your % here", // Update to your real Codeforces rank/highlight
+    text: "Codeforces — pupil", // Update to your real Codeforces rank/highlight
     style: "from-violet-100 to-purple-200 border-violet-300 shadow-violet-200/40 hover:shadow-purple-400/60",
   },
 ];

@@ -13,7 +13,7 @@ const ProfilePhoto = () => (
     {/* PROFILE PHOTO: update img src with your headshot */}
     <div className="w-40 h-40 rounded-full border-4 border-yellow-400 shadow-lg bg-gradient-to-br from-yellow-100/50 to-gray-900/10 flex items-center justify-center overflow-hidden group relative">
       <img
-        src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=facearea&w=400&h=400&facepad=3"
+        src="/myphoto.jpeg"
         alt="Profile placeholder"
         className="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500"
       />

@@ -34,7 +34,7 @@ const AboutSection = () => (
           </div>
           <div className="relative">
             <div className="bg-gradient-to-br from-card/40 to-card/20 backdrop-blur-md p-8 rounded-xl border border-primary/30 hover:border-primary/50 transition-all card-hover">
-              <h3 className="text-3xl font-bold mb-6 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">Quick Stats</h3>
+              <h3 className="text-3xl font-bold mb-6 text-white">Quick Stats</h3>
               <div className="space-y-4">
                 <div className="flex justify-between items-center p-3 rounded-lg bg-card/30">
                   <span className="text-lg font-medium text-foreground">Problems Solved</span>

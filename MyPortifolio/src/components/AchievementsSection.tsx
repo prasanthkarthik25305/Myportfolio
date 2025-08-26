@@ -26,7 +26,7 @@ const achievements = [
   { title: "RHCSA Qualified", value: "2024", type: "cert" },
   { title: "Google Cybersecurity", value: "Certified", type: "cert", image: googleCyberBadge },
   { title: "GSoC Participant", value: "2024", type: "achievement" },
-  { title: "DRDO RCI Intern" , value: "2026",type:"achievement"}
+  { title: "DRDO RCI Intern" , value: "2025",type:"achievement"}
 ];
 
 const AchievementsSection = () => (

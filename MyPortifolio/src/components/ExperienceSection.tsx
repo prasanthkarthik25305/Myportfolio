@@ -19,22 +19,22 @@ const experiences = [
   {
     icon: <Briefcase className="w-6 h-6 text-pink-500" />,
     role: "DSA Intern",
-    company: "Acme Soft (replace)", // <-- Update to your real company
-    year: "2022",
+    company: "Technical Hub", // <-- Update to your real company
+    year: "2025",
     description: "Worked on microservices, learned Java enterprise patterns, and deployed small tools."
   },
   {
     icon: <Code className="w-6 h-6 text-blue-500" />,
-    role: "DSA Intern",
-    company: "WebWorks (replace)",
-    year: "2023",
+    role: "Python Intern",
+    company: "Technical Hub",
+    year: "2024",
     description: "Developed responsive landing pages and REST APIs. Frequent use of React + Tailwind."
   },
   {
     icon: <Globe className="w-6 h-6 text-green-500" />,
     role: "Projects & Personal Growth",
     company: "Personal Portfolio",
-    year: "2023",
+    year: "2025",
     description: "Built personal projects, continuously upgraded my skills, and focused on hands-on learning and self-improvement."
   }
 ];

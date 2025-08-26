@@ -18,7 +18,7 @@ const InteractiveButtons = () => {
     action: () => {
       // To enable, update the URL to your actual resume file
       // EXAMPLE: window.open("https://yourdomain.com/your-resume.pdf", "_blank");
-      window.open("https://yourdomain.com/your-resume.pdf", "_blank"); // <-- Replace with your resume URL!
+      window.open("https://yourdomain.com/your-resume.pdfhttps://drive.google.com/file/d/1sfYCK2RC6TD8xXf1W4vrWEkuJo5dQq65/view?usp=sharing", "_blank"); // <-- Replace with your resume URL!
     }
   }, {
     id: 'projects',
