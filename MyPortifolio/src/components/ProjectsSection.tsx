@@ -23,8 +23,8 @@ const projectsData = [
     category: "ai", // Category: 'ai', 'web', 'backend', 'security', etc
     challenges: "Implemented complex multi-agent communication and email automation",
     outcome: "Reduced hiring time by 60% and improved match accuracy to 89%",
-    github: "https://github.com/youruser/AIRecruiter",  // <-- Put your Github repo here
-    live: "https://ai-recruiter.example.com"            // <-- Put your live demo URL here, or "#" to disable
+    github: "https://github.com/prasanthkarthik25305/AI-ML-Projects/tree/master/AI-Recruiter",  // <-- Put your Github repo here
+    live: "https://drive.google.com/file/d/14hSc1GPdXgW-m278C5K4Ch1PpaA1SkAz/view?usp=sharing"            // <-- Put your live demo URL here, or "#" to disable
   },
   {
     title: "HealthHub",
@@ -45,7 +45,7 @@ const projectsData = [
     challenges: "Designed scalable architecture using Java servlets and apache Tomcat",
     outcome: "Developed a Cloud ready web app",
     github: "https://github.com/prasanthkarthik25305/Frontend/tree/main/Inventory", // No github available - disables button
-    live: "#"
+    live: "https://drive.google.com/file/d/1lpUxOXdv8PR5rfaB6pSBOufhrITxGvK5/view?usp=sharing"
   },
   {
     title: "PathPilot",
